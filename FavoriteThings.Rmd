@@ -1,7 +1,9 @@
 ---
 title: "A few of my favorite things"
 author: "Camila Hernandez"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 Unordered List:
@@ -12,4 +14,4 @@ Unordered List:
  - Minecraft
 
 
-👽👽
+👽💤
